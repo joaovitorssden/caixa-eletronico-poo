@@ -157,6 +157,8 @@ Tema **"Dark Banking Premium"** com identidade do grupo:
 | Nome | RA |
 |---|---|
 | Bruno Macedo Medrades | 43699596 |
+| Fernando Lino lunguinho | 43017231 |
+| Giovanna Peixoto severo de Araújo | 42357764 |
 | Guilherme de Sousa Santos | 42880386 |
 | Jean dos Santos Silva | 43455611 |
 | João Vitor Soares | 42216486 |
